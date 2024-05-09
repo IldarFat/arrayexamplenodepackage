@@ -1,0 +1,11 @@
+{
+  "name": "arrayprogressionexample",
+  "version": "1.0.0",
+  "description": "make arrays of number elements every of them are part of progression. ",
+  "main": "example-arrays-progression.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ildar Fatyhov",
+  "license": "ISC"
+}
